@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\build_ms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693C87B2-998B-331D-8440-FBFB3E05C61F}|jacobi_demo.vcxproj|C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\jacobi_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C87B2-998B-331D-8440-FBFB3E05C61F}|jacobi_demo.vcxproj|C:\\USERS\\HP\\DOCUMENTS\\CPP\\MATRIX_CLAUD\\JACOBI.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C87B2-998B-331D-8440-FBFB3E05C61F}|jacobi_demo.vcxproj|C:\\USERS\\HP\\DOCUMENTS\\CPP\\MATRIX_CLAUD\\MATRIX.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EDB74-F91E-3F74-9C81-30D49442AE45}|ALL_BUILD.vcxproj|C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c3d4e5f6-a7b8-9012-cdef-ab3456789012}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\Matrix.hpp",
+              "RelativeDocumentMoniker": "..\\Matrix.hpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\Matrix.hpp",
+              "RelativeToolTip": "..\\Matrix.hpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAApwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-13T13:06:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jacobi.hpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\Jacobi.hpp",
+              "RelativeDocumentMoniker": "..\\Jacobi.hpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\Jacobi.hpp",
+              "RelativeToolTip": "..\\Jacobi.hpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-13T12:19:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jacobi_demo.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\jacobi_demo.cpp",
+              "RelativeDocumentMoniker": "..\\jacobi_demo.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\jacobi_demo.cpp*",
+              "RelativeToolTip": "..\\jacobi_demo.cpp*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-13T12:09:57.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\HP\\Documents\\CPP\\Matrix_claud\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-13T12:05:38.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

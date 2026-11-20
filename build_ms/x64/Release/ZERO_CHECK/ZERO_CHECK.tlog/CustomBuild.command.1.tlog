@@ -1,0 +1,10 @@
+^C:\USERS\HP\DOCUMENTS\CPP\MATRIX_CLAUD\BUILD_MS\CMAKEFILES\A43FAD21BA5CECE43F62606FBA9E0C2D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/HP/Documents/CPP/Matrix_claud -BC:/Users/HP/Documents/CPP/Matrix_claud/build_ms --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/MatrixLib.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

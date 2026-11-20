@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "jacobi_demo.dir\\Debug\\Jacobi.obj",
+            "outputs": [
+                "jacobi_demo.dir\\Debug\\Jacobi.hpp.obj.dt.module.json",
+                "jacobi_demo.dir\\Debug\\Jacobi.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

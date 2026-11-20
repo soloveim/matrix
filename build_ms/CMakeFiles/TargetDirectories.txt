@@ -1,0 +1,5 @@
+C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/CMakeFiles/matrix_demo.dir
+C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/CMakeFiles/jacobi_demo.dir
+C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/CMakeFiles/INSTALL.dir
+C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Documents/CPP/Matrix_claud/build_ms/CMakeFiles/ZERO_CHECK.dir
